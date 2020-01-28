@@ -1,7 +1,9 @@
 # kernighan-lin
 
 Implementation of kernighan lin algorithm for graph partitioning in Matlab.
+
 Input:csv file containing edges from node in the 1st column to node in the 2nd column
+
 Output: .gv file that can be used to visualise partitioning
 
 kl algorithm:
